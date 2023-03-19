@@ -10,3 +10,5 @@ export class AppController {
     return this.appService.getHello();
   }
 }
+// nest g resource todo  
+// npm i -g @nestjs/cli ติดตั้งครั้เดียว
